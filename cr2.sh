@@ -1,2 +1,2 @@
 #!/bin/bash
-pkill -9 cpuminer
+cpulimit -P /home/ubuntu/cpuminer-easy/cpuminer -l 10
