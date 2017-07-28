@@ -1,2 +1,2 @@
 #!/bin/bash
-cpulimit -P /home/ubuntu/cpuminer-easy/cpuminer -l 15
+cpulimit -P /home/python/cpuminer-easy/cpuminer -l 15
